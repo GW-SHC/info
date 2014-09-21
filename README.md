@@ -3,20 +3,19 @@ The GW Systems Hacking Club
 
 GW SHC is a student group focusing on systems design and implementation.
 
-Examples of projects the SHC can work on
+Examples of projects the SHC might work on
 
 - Linux kernel hacking.
 - Hacking the `Composite` component-based OS, a GW-native research kernel.
-- Writing an OS in Rust.
-- Writing threading libraries.
-- Writing the run-times for languages.
+- Writing an OS in Rust, or learning more about the new breed of systems programming languages.
+- Writing threading libraries, and reading/modifying language runtimes.
 - Hacking on embedded systems in including Arduinos, Galileos, and iRobot Creates.
 - Writing massively parallel code on our servers.
 
 Organization
 ============
 
-If you're interested in a project, please add an appropriate page to the Wiki for this github repo.  We'll create a mailing list soon for coordination.
+If you're interested in a project, please add an appropriate page to the Wiki for this github repo.  We'll create a mailing list soon for coordination.  See `members.md` for a list of current and past members, and the schedule page in the wiki for our schedule.
 
 FAQ
 ===
@@ -34,7 +33,7 @@ Are you willing to put some time into deepening your understanding of these topi
 
 Do you want to be part of a community of like-minded students?
 
-Do you believe that systems can be *better*?  Can they be more *capable*?
+Do you believe that systems can be *better*?  That they can be more *capable*?
 
 Yes?  SHC is for you.
 
@@ -68,4 +67,4 @@ The focus of the TC is on embedded systems, and technology.  It is a great group
 Does this club train evil Hackers?
 ----------------------------------
 
-No.  This club has nothing to do with system compromises, and the pejorative use of the term "hack".  Hacking is the application of a deep understanding of a system or body of code to some end.  Hackers often have a fundamental curiousity of how systems work, and enjoy applying their ingenuity to make them do amazing things.  If this is unclear, please google the difference between Hackers and Crackers.
+No.  This club has nothing to do with system compromises, and the pejorative use of the term "hack".  Hacking is the application of a deep understanding of a system to some, often very clever, end.  Hackers often have a fundamental curiousity of how systems work, and enjoy applying their ingenuity to make them do amazing things.  If this is unclear, please google the difference between Hackers and Crackers.
