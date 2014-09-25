@@ -17,6 +17,8 @@ Organization
 
 If you're interested in a project, please add an appropriate page to the Wiki for this github repo.  We'll create a mailing list soon for coordination.  See `members.md` for a list of current and past members, and the schedule page in the wiki for our schedule.
 
+Please use the mailing list at gw-shc@googlegroups.com, and post any updates to this repository.
+
 FAQ
 ===
 
