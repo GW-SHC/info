@@ -15,9 +15,11 @@ Examples of projects the SHC might work on
 Organization
 ============
 
-If you're interested in a project, please add an appropriate page to the Wiki for this github repo.  We'll create a mailing list soon for coordination.  See `members.md` for a list of current and past members, and the schedule page in the wiki for our schedule.
+If you would like more information about what this club does, visit the wiki at [https://github.com/gw-shc/info/wiki](https://github.com/gw-shc/info/wiki).  The home page has more information about the club, and the pages drop-down on the right includes some past projects and a rough schedule of meetings.  
 
-Please use the mailing list at gw-shc@googlegroups.com (you can subscribe at [https://groups.google.com/d/forum/gw-shc](https://groups.google.com/d/forum/gw-shc)), and post any updates to this repository.
+The primary means of communication and the best way to join SHC is through the slack: [https://gw-shc.slack.com](https://gw-shc.slack.com).  Slack is a team based messaging platform.   We use it to send out information about meeting times and locations, as well as general discussion, project collaboration, and links/memes.  Email Gabe Parmer (gparmer@gwu.edu) to be added. 
+
+If you're interested in a project, please add an appropriate page to the Wiki for this github repo.  We'll create a mailing list soon for coordination.  See `members.md` for a list of current and past members, and the schedule page in the wiki for our schedule.  
 
 FAQ
 ===
@@ -56,10 +58,10 @@ How is this club related to Prof. Parmer?
 
 [Prof. Parmer](http://www.seas.gwu.edu/~gparmer/) is one of the systems professors at GWU.  His research revolves around the [Composite](http://composite.seas.gwu.edu) component-based operating system.  He helps in the organization of the club, but the goal is for it to be student run, and student organized.
 
-How is the club related to the Buff and Blue Hat Security Club at GWU?
-----------------------------------------------------------------------
+How is the club related to the GW Cyber Security Club (formerly Buff and Blue Hat)
+----------------------------------------------------------------------------------
 
-B&BH is focused on system security.  Therefore, there is a fair amount of overlap between the clubs.  SHC is more focused on system implementation and development, while B&BH is focused on penetration testing, compromises, and other issues centered around security.
+GW Cyber is focused on system security.  Therefore, there is a fair amount of overlap between the clubs.  SHC is more focused on system implementation and development, while GW Cyber is focused on penetration testing, compromises, and other issues centered around security.
 
 How is the club related to the Tech Collective?
 -----------------------------------------------
