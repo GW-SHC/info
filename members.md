@@ -11,3 +11,12 @@
 - Michael Gasparovic
 - Neel Shah
 - Phil Lopreiato
+- Pat Cody
+- Riley Kennedy
+- Zach Day
+- Gregor Peach
+- Joseph Espy
+- Samsara Counts
+- Henry Jaensch
+- Jack Hirschman
+- Teodor Georgiev
