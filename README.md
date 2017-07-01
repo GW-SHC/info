@@ -35,6 +35,7 @@ Are you interested in
 - low-level system programming?
 - embedded system development?
 - kernel and OS hacking?
+- understanding how systems work?
 
 Are you willing to put some time into deepening your understanding of these topics?  Are you comfortable pushing yourself, and learning on your own?
 
