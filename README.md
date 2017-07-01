@@ -60,7 +60,7 @@ We will talk about and hack on cutting-edge research.  However, it is not necess
 How is this club related to Prof. Parmer?
 -----------------------------------------
 
-[Prof. Parmer](http://www.seas.gwu.edu/~gparmer/) is one of the systems professors at GWU.  His research revolves around the [Composite](http://composite.seas.gwu.edu) component-based operating system.  He helps in the organization of the club, but the goal is for it to be student run, and student organized.
+[Prof. Parmer](http://www.seas.gwu.edu/~gparmer/) is one of the systems professors at GWU.  His research revolves around the [Composite](http://composite.seas.gwu.edu) component-based operating system.  He helps in the organization of the club, but the club is student run, and student organized.
 
 How is the club related to the GW Cyber Security Club (formerly Buff and Blue Hat)
 ----------------------------------------------------------------------------------
@@ -75,4 +75,4 @@ The focus of the TC is on embedded systems, and technology.  It is a great group
 Does this club train evil Hackers?
 ----------------------------------
 
-No.  This club has nothing to do with system compromises, and the pejorative use of the term "hack".  Hacking is the application of a deep understanding of a system to some, often very clever, end.  Hackers often have a fundamental curiousity of how systems work, and enjoy applying their ingenuity to make them do amazing things.  If this is unclear, please google the difference between Hackers and Crackers.
+No.  This club has little to do with system compromises, and the pejorative use of the term "hack".  Hacking is the application of a deep understanding of a system to some, often very clever, end.  Hackers often have a fundamental curiousity of how systems work, and enjoy applying their ingenuity to make them do amazing things.  If this is unclear, please google the difference between Hackers and Crackers.
