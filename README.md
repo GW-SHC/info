@@ -12,6 +12,9 @@ Examples of projects the SHC might work on
 - Hacking on embedded systems in including Arduinos, Galileos, and iRobot Creates.
 - Writing massively parallel code on our servers.
 
+Some [colorful descriptions](https://www.usenix.org/system/files/1311_05-08_mickens.pdf) of the heroic disposition of system programmers.
+Don't let you scare you though, we are pretty relaxed and have broad interests.
+
 Organization
 ============
 
