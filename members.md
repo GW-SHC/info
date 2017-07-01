@@ -1,6 +1,6 @@
 # SHC Hackers
 
-- Eric Armbrust
+- Amy Armbrust
 - Beshoi Genidy
 - Robert Gifford
 - John Shepherd
@@ -20,3 +20,5 @@
 - Henry Jaensch
 - Jack Hirschman
 - Teodor Georgiev
+
+(once a member, always a memeber)
