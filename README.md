@@ -2,6 +2,7 @@ The GW Systems Hacking Club
 ===========================
 
 GW SHC is a student group focusing on systems design and implementation.
+There's [material](http://www2.seas.gwu.edu/~gparmer/posts/2017-04-21-getting-into-systems.html) if you're curious what that is all about, or how to get into it.
 
 Examples of projects the SHC might work on
 
