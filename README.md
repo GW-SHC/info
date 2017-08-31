@@ -23,7 +23,11 @@ If you would like more information about what this club does, visit the wiki at 
 
 The primary means of communication and the best way to join SHC is through the slack: [https://gw-shc.slack.com](https://gw-shc.slack.com).  Slack is a team based messaging platform.   We use it to send out information about meeting times and locations, as well as general discussion, project collaboration, and links/memes.  Email Gabe Parmer (gparmer@gwu.edu) to be added. 
 
-If you're interested in a project, please add an appropriate page to the Wiki for this github repo.  We'll create a mailing list soon for coordination.  See `members.md` for a list of current and past members, and the schedule page in the wiki for our schedule.  
+If you're interested in a project, please add an appropriate page to the Wiki for this github repo.  We'll create a mailing list soon for coordination.  See `members.md` for a list of current and past members, and the schedule page in the wiki for our schedule.
+
+Meeting Time
+============
+For the Fall 2017 Semester, SHC will meet regularaly: **Fridays 4:00pm - 6:00pm in Tompkins 402 / 404**
 
 FAQ
 ===
