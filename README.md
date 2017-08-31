@@ -27,7 +27,7 @@ If you're interested in a project, please add an appropriate page to the Wiki fo
 
 Meeting Time
 ============
-For the Fall 2017 Semester, SHC will meet regularaly: **Fridays 4:00pm - 6:00pm in Tompkins 402 / 404**
+For the Fall 2017 Semester, SHC will meet regularly: **Fridays 4:00pm - 6:00pm in Tompkins 402 / 404**
 
 FAQ
 ===
